@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Learning Rust**
 
-- 🌱 I’m currently learning **Rust**
-
 - 💬 Ask me about **JS, Node, Express, React, Next, Nest etc**
 
 - 📫 How to reach me **tanishchaurasia56@gmail.com**
