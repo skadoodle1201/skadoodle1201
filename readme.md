@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skadoodle1201&label=Profile%20views&color=0e75b6&style=flat" alt="skadoodle1201" /> </p>
 
-- 🔭 I’m currently working on **Learning Rust**
+- 🔭 I’m currently working on **Learning Go**
 
 - 💬 Ask me about **JS, Node, Express, React, Next, Nest etc**
 
